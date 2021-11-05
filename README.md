@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rashmisingh-18)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmisingh-18&layout=compact)](https://github.com/Rashmisingh-18/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rashmisingh-18)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rashmisingh-18)](https://github.com/Rashmisingh-18/github-readme-stats)
