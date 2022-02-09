@@ -1,5 +1,10 @@
-## Hello, there 👋!!  I'm Rashmi
-#### A Web development enthusiast, currently an undergraduate(sophomore) at IIT(BHU) Varanasi!!
+## <h1 align = "center"> Hey there !! 👋 </h1>
+__<h3 align = "center" font>I'm Rashmi, sophomore at IIT(BHU) Varanasi!!</h3>__
+
+<h4 align = "center" font>I'm currently enhancing my skills in Web Development, DSA and Competitive Programming</h4>
+
+<br>
+<br>
 
 <!--
 **Rashmisingh-18/Rashmisingh-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
