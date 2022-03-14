@@ -1,5 +1,5 @@
 ## <h1 align = "center"> Hey there !! 👋 </h1>
-__<h3 align = "center" font>I'm Rashmi, sophomore at IIT(BHU) Varanasi!!</h3>__
+__<h3 align = "center" font>I'm Rashmi, sophomore at IIT (BHU) Varanasi!!</h3>__
 
 <h4 align = "center" font>I'm currently enhancing my skills in Web Development, DSA and Competitive Programming</h4>
 
