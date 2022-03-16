@@ -5,8 +5,6 @@ __<h3 align = "center" font>I'm Rashmi, sophomore at IIT (BHU) Varanasi!!</h3>__
 
 ![Profile views](https://gpvc.arturio.dev/Rashmisingh-18)
 
-<br>
-
 <!--
 **Rashmisingh-18/Rashmisingh-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
